@@ -1,5 +1,4 @@
 # Code-challenge
-WEEK ONE CODE CHALLENGE
 26 March 2024
 
 By Dylen Muiruri
@@ -202,7 +201,8 @@ To clone this repository to your machine do this in the root directory of where 
 By Dylen Muiruri
 This document was created with Javascript
 
-Description
+### Description
+
 This was a code challenge comprised of 3 different tasks, the scripting of:-
 
 A student grade generator
@@ -251,7 +251,27 @@ Bug / Feature Request
 If you find a bug that gave undesired results, kindly open an issue here.
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=keithowino&show_icons=true&locale=en&layout=compact" alt="Image showcasing the site author's github status on top languages used" /></p>
+## Setup/ Installation Requirements
+- To clone this repository to your machine do this in the root directory of where you would like to save the project. Before using this be sure which url link you should use, is it for HTTP or shh.
+
+    ```
+    git clone https://github.com/purimsq/code-challenge.git
+    ```
+
+- Open the repository.
+
+    ```
+    cd code-challenge
+    ```
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=purimsq&show_icons=true&locale=en&layout=compact" alt="Image showcasing the site author's github status on top languages used" /></p>
+
+### TECHNOLOGIES USED
+
+ *Node.js
+
+ *Github
+ 
 
 
 Support and contact details
